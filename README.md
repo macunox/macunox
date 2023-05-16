@@ -12,9 +12,8 @@
 ---
 
 - 👋 Hi, I’m @macunox
-- 👀 I’m interested in: a lot of stuff
-- 🌱 I’m currently learning: a lot of stuff
-- 📫 How to reach me: github
+
+- 👀 I’m interested in: Cyber Security and DevSecOps
 
 ---
 
